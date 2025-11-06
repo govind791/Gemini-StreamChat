@@ -1,8 +1,8 @@
 # 🌌 Gemini StreamChat
 
 > **Author:** Jay Govind Kumar  
-
 ![App Preview](./screenshot-ui.png)
+
 
 ---
 
