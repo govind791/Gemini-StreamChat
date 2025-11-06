@@ -1,6 +1,5 @@
 # 🌌 Gemini StreamChat
 
-![Badge](https://img.shields.io/badge/IIIT%20Manipur%20|%20ECE%20|%20VLSI-blueviolet)
 > **Author:** Jay Govind Kumar  
 
 ![App Preview](./screenshot-ui.png)
